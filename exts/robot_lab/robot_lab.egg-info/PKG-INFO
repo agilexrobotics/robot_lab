@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: robot_lab
+Version: 0.4.0
+Summary: Real Robot Training for Isaac Lab
+Home-page: https://github.com/fan-ziqi/robot_lab.git
+Author: Ziqi Fan
+Maintainer: Ziqi Fan
+License: MIT
+Keywords: extension,robot_lab,isaaclab
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Isaac Sim :: 2023.1.1
+Classifier: Isaac Sim :: 4.0.0
+Requires-Python: >=3.10
+Requires-Dist: psutil
+Requires-Dist: lxml
+Requires-Dist: transformations
+Requires-Dist: pybullet
