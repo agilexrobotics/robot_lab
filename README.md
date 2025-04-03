@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/license-Apache2.0-yellow.svg)](https://opensource.org/license/apache-2-0)
 
 ## Overview
-
+piper on Isaac Lab. based on https://github.com/fan-ziqi/robot_lab
 **robot_lab** is a RL extension library for robots, based on IsaacLab. It allows you to develop in an isolated environment, outside of the core Isaac Lab repository.
 
 > [!IMPORTANT]
@@ -27,7 +27,7 @@
 - Clone this repository separately from the Isaac Lab installation (i.e. outside the `IsaacLab` directory):
 
   ```bash
-  git clone https://github.com/fan-ziqi/robot_lab.git
+  git clone https://github.com/agilexrobotics/robot_lab.git
   ```
 
 - Using a python interpreter that has Isaac Lab installed, install the library
