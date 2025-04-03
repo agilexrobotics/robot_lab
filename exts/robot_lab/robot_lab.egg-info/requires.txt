@@ -1,4 +1,0 @@
-psutil
-lxml
-transformations
-pybullet
